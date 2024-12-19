@@ -12,7 +12,7 @@ This folder explores mastery strategies in several disciplines. It covers basic 
 
 1. Search the subfolders for materials catered to particular subjects:
 - **/chess/**: Find out how effectively understanding algorithms and data structures need chess.
-- **/case- Studies/**: Analyze cases of tactical thinking in several contexts.
+- **/case-studies/**: Analyze cases of tactical thinking in several contexts.
 2. Analyze the recommendations and models to improve your strategic thinking.
 3. Included are challenges to your understanding through exercises.
 
